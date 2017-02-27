@@ -1,4 +1,11 @@
 
+/* 
+first attempt
+https://codility.com/programmers/task/winter_lights/
+in java, with an awfully slow running time. 
+the c version runs a lot faster. 
+*/ 
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ArrayList;
